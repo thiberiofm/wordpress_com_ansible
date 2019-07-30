@@ -4,6 +4,7 @@
 
 ### Ansible ###
 *.retry
+hosts
 
 ### Vagrant ###
 # General
@@ -15,5 +16,5 @@
 ### Vagrant Patch ###
 *.box
 ssh-keys/
-
+files*
 # End of https://www.gitignore.io/api/ansible,vagrant
